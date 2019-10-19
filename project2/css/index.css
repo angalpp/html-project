@@ -1,0 +1,82 @@
+body{
+	
+	 background-image: url("C:/Users/face/Desktop/html/project2/img/dark-wood.jpg");
+	 margin-left: 15%;
+
+	margin-right: 16%;
+	height: 500px;
+
+
+	
+
+}
+
+.main{
+	background-color: white;
+			text-align: left;	
+			background: #b2beb5;
+			color: none;
+
+		margin-top: -10px;
+		padding: 1px;
+			
+		}
+		#val{
+			color: black;
+			border: none;
+			outline: none;
+			background:#b2beb5;
+			font-size: 15px;
+		}
+
+	#name{
+
+
+		font-size: 15px;
+			background:#b2beb5;
+
+			border: none;
+
+			outline: none;
+	
+		color:white;
+	}
+	.mainclass
+	{
+		background: white;
+		height: 100.4%;
+		width: 100%;
+		
+
+
+	}
+	
+	.new1{
+		padding: 10px;
+		
+	float: left;
+	width: 35%;
+	
+
+	}
+	.new2{
+		float: left;
+		width: 30%;	
+		
+	}
+	.new3{
+		float: right;
+		width: 30%;
+	
+	}
+	.footer{
+		float: left;
+
+			background-color:grey;
+
+width: 283%;
+margin-bottom: 1px;
+
+
+	}
+	

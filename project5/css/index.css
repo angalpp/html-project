@@ -1,0 +1,314 @@
+body{
+	width: 100%;
+	font-family: 'Nunito Sans', sans-serif !important;
+    margin-top: -20px;
+    padding: 20px;
+}
+.header{
+	background-image:url("C:/Users/face/Desktop/html/project5/img/background image.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+}
+.a {
+    max-width: 960px;
+}
+.main1 .apx {
+    padding: 10px;
+}
+.main1 .b {
+    width: 50%;
+    min-height: 10rem;
+}
+.main1 .heading {
+    font-size: 40px;
+    font-weight: 600;
+    color: #F05136;
+    line-height: 72px;
+    margin-top: 15%;
+}
+.main1 .info {
+    font-size: 18px;
+    color: #000000;
+    line-height: 27px;
+}
+
+
+.main2{
+    width: 100%;
+    height: 260px;
+   
+}
+
+.main2 p.headingmain2{
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 3rem;
+    width: 50%;
+    float: left;
+    margin: 0px;
+}
+
+.main2aline{
+    width: 60%;
+    height: 50px;
+    margin: 0px;
+    float: left;
+}
+
+
+.main2pic{
+    float: left;
+    width: 25%;
+  
+    margin: 0px;
+}
+
+
+.head_b {
+  float: left;
+  margin: 0px;
+    font-style: bold;
+    font-size: 18px;
+    color: #000000;
+    line-height: 27px;
+    width: 70%;
+}
+.head_b1 {
+    margin-left: 20px;
+    font-size: 18px;
+    color: #000000;
+    line-height: 27px;
+    padding-left: 23%;
+}
+a.btn {
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+    cursor: pointer;
+    color: red;
+    margin-left: 25%;
+    text-decoration: none;
+}
+.main2sub2{
+  
+    
+  width: 35%;
+    float: right;
+}
+
+
+.headingmain2sub2 {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 6rem;
+    margin-left: 10%;
+    text-align: right;
+    margin-right: 30%;
+    margin-top: -60px;
+    margin-bottom: 0px;
+}
+.main2 .box1 {
+    width: 80%;
+    height: 70%;
+    float: left;
+    border: 1px solid #E4E4E4;
+    text-align: left;
+    background: #FAFAFA;
+    padding-left: 2%;
+    border-radius: 4px;
+    padding: 2%;
+    margin-left: 3px;
+}
+.main2 .box1 .g {
+    font-size: 16px;
+    color: #000000;
+    line-height: 27px;
+}
+
+
+
+.headmain3
+{
+
+margin-top: 40px;
+}
+#image
+{
+width: 100%;
+
+position: relative;
+position: absolute;
+height: 520px;
+}
+.box2
+{
+position: absolute;
+margin-top: -180px;
+margin-left: 100px;
+}
+#head5
+{
+font-size: 20px;
+font-family: 'Source Sans Pro' sans-serif;
+}
+.para2
+{
+font-size: 15px;
+line-height: 25px;
+}
+#paragraph1
+{
+line-height: 25px;
+}
+.box3
+{
+width: 470px;
+height: 450px;
+background-color: white;
+padding-left: 20px;
+padding-top: -20px;
+
+margin-top: -240px;
+margin-left: 630px;
+position: absolute;
+
+}
+.mainbox
+{
+margin-top: 300px;
+}
+#subhead
+{
+font-size: 15px;
+color: #aaa;
+}
+.scroll
+{
+margin-top: 580px;
+margin-left: 90px;
+}
+#image1
+{
+    width: 220px;
+    height: 150px;
+}
+#image2
+{
+    width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image3
+{
+   width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image4
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image5
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image6
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image7
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image8
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image9
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+#image10
+{
+width: 220px;
+    height: 150px;
+    margin-left: 100px;
+}
+.vodafone
+{
+margin-top: 10px;
+}
+#image11
+{
+width: 100px;
+height: 20px;
+margin-left: 250px;
+}
+.list
+{
+list-style-type: none;
+float: right;
+margin-right: 350px;
+margin-top: 5px;
+}
+a
+{
+text-decoration: none;
+color: black;
+}
+li
+{
+line-height: 30px;
+}
+.idea
+{
+float: right;
+margin-right: -400px;
+margin-top: 8px;
+}
+h4
+{
+color: #ccc;
+}
+.last
+{
+margin-top: 300px;
+line-height: 8px;
+color: grey;
+}
+#image12
+{
+width: 100px;
+margin-left: 600px;
+}
+.para4
+{
+margin-left: 580px;
+font-size: 15px;
+
+}
+#pa
+{
+margin-left: 590px;
+}
+.footer
+{
+margin-top: 50px;
+color: #aaa;
+text-align: center;
+}

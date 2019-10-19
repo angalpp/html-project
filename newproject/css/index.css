@@ -1,0 +1,112 @@
+html,body{
+			margin: 0px;
+			padding: 0px;
+
+}
+h1{
+ font-family: "Century Gothic";
+ font-style: normal;
+ font-weight: normal;
+}
+h2{
+	 font-family: "Century Gothic";
+ font-style: normal;
+ font-weight: normal;
+
+}
+
+
+.main{
+		
+			text-align: left;	
+			background: black;
+			color: none;
+			
+			font-size: 40px;
+			margin: 0px;
+		}
+
+	#name{
+			background: none;
+
+			border: none;
+			outline: none;
+		
+		color: white;
+	}
+	.f1{
+		
+		padding-left: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: #519999;
+		font-size: 20px;
+	}
+	.f2{
+	padding-left: 10px;
+		width: 60%;
+		height: 90%;
+		float: left;
+			
+	}
+	#f3
+		{
+			background: green;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			padding: 10px;
+			
+		
+	
+
+		}
+	.man
+	{
+		float: right;
+		width: 30%;
+		height: 90%;
+
+	}
+		.man ul
+		{
+
+		list-style-type:none;
+
+		}
+		.man ul li a
+		{
+			text-decoration: none;
+			padding-left: 20px;
+			
+		}
+		.new{
+			margin: 0px;
+			padding: 10px;
+
+		}
+		footer{
+			display: inline-block;
+			height: 50px;
+			width: 100%;
+			margin-top: 10px;
+			background-color:#333333;
+			padding:  20px;		}
+
+		.spltfooter
+		{
+			padding-left: 20px;
+			width: 30%;
+			float: left;
+		}
+		.spltfootercenter
+		{
+			width: 30%;
+			float: left;
+		}
+		.spltfooterrt
+		{
+			width: 30%;
+			float: right;
+		}
+		
